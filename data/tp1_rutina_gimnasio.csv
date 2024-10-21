@@ -1,0 +1,79 @@
+Training,Training type,Exercise,Set type,Number of set type,Reps,Duration
+Upper body,Push day,Push up,Armagedon,1,25,3
+Upper body,Push day,Spartan push up,Armagedon,1,25,4
+Upper body,Push day,Dips,Armagedon,1,25,4
+Upper body,Push day,Triceps extension,Armagedon,1,25,4
+Upper body,Push day,Crescent rings,Series,3,30,3
+Upper body,Push day,Mountain climber wall,Series,3,60,4
+Upper body,Push day,Open chester rings,Series,3,30,3
+Upper body,Push day,Side kicks,"I go, you go",1,60,4
+Upper body,Push day,Jump rope,"I go, you go",1,60,4
+Upper body,Push day,Partner barrow,"I go, you go",1,60,4
+Upper body,Push day,Tap shoulders,"I go, you go",1,60,4
+Upper body,Push day,Burpees,"I go, you go",1,20,4
+Lower body,Explosive legs,Explosive pistol,AMRAP,1,32,4
+Lower body,Explosive legs,Thuster,AMRAP,1,40,4
+Lower body,Explosive legs,Box jump,AMRAP,1,24,4
+Lower body,Explosive legs,Double squats,Series,2,24,3
+Lower body,Explosive legs,From kness to squat,Series,2,20,3
+Lower body,Explosive legs,Archer squats,Series,2,40,3
+Lower body,Explosive legs,Jump rope,Calf explosion,1,50,6
+Lower body,Explosive legs,Calf rises 1 leg,Calf explosion,1,40,6
+Lower body,Explosive legs,Squat hold,Calf explosion,1,30,6
+Lower body,Explosive legs,Calf rises,Calf explosion,1,30,6
+Beginner,Full body,Knee push up,Armagedon,1,25,3
+Beginner,Full body,Thuster,Armagedon,1,25,4
+Beginner,Full body,Dips,Armagedon,1,25,4
+Beginner,Full body,Constructors,Armagedon,1,25,4
+Beginner,Full body,Back lunge,Series,3,30,4
+Beginner,Full body,Squat,Series,3,30,4
+Beginner,Full body,March,Series,3,30,4
+Beginner,Full body,Short Squats,Series,3,45,3
+Beginner,Full body,Squat hold,Series,3,45,3
+Beginner,Full body,Band rows 1 arm,AMRAP,1,36,4
+Beginner,Full body,Step up,AMRAP,1,60,4
+Beginner,Full body,Plank + tap knees,AMRAP,1,60,4
+Lower body,Cuadriceps & explosion,Box jump,Armagedon,1,25,3
+Lower body,Cuadriceps & explosion,Jump squats,Armagedon,1,25,4
+Lower body,Cuadriceps & explosion,Jump lunges,Armagedon,1,25,4
+Lower body,Cuadriceps & explosion,Double squats,Armagedon,1,25,4
+Lower body,Cuadriceps & explosion,Beast to squat,Series,3,36,4
+Lower body,Cuadriceps & explosion,Reverse nordics,Series,3,30,3
+Lower body,Cuadriceps & explosion,Archer squats,Series,3,36,3
+Lower body,Cuadriceps & explosion,Sit up,"I go, you go",1,30,4
+Lower body,Cuadriceps & explosion,Squat hold,"I go, you go",1,30,4
+Lower body,Cuadriceps & explosion,Knee raises,"I go, you go",1,30,4
+Lower body,Cuadriceps & explosion,Pistol,"I go, you go",1,30,4
+Lower body,Cuadriceps & explosion,Burpees,"I go, you go",1,20,4
+Goal,Full body,Burpees,Your max,1,20,5
+Goal,Full body,Push up,Your max,1,40,4
+Goal,Full body,Jump squats,Your max,1,40,4
+Goal,Full body,Pull up,Your max,1,20,3
+Goal,Full body,Muscle up,Your max,1,10,3
+Goal,Full body,Box jump,Your max,1,40,5
+Goal,Full body,Australian pull up,Your max,1,30,3
+Goal,Full body,Dips,Your max,1,40,4
+Goal,Full body,Bulgarians,Your max,1,30,4
+Goal,Full body,Toes to bar,Your max,1,30,4
+Goal,Full body,Plank,Your max,1,30,3
+Goal,Full body,Skin the cat,Your max,1,20,3
+Upper body,Full chester,Push up,AMRAP,1,15,4
+Upper body,Full chester,Side kicks,AMRAP,1,40,4
+Upper body,Full chester,Spartan push up,AMRAP,1,36,4
+Upper body,Full chester,Ring push up,Series,3,36,6
+Upper body,Full chester,Dips,Series,3,36,8
+Upper body,Full chester,Decline push up,Series,3,36,7
+Upper body,Full chester,Diamond push up,Your max,1,40,4
+Upper body,Full chester,L sit kicks,Your max,1,40,4
+Upper body,Full chester,Back lever tuck,Your max,1,10,4
+Lower body,Posteriors,Deadlift 1 leg,Series,4,60,5
+Lower body,Posteriors,Hip thrust hold alternating,Series,4,60,6
+Lower body,Posteriors,Hip thrust,Series,4,80,6
+Lower body,Posteriors,Deadlift,AMRAP,1,36,4
+Lower body,Posteriors,Squats,AMRAP,1,36,4
+Lower body,Posteriors,Push up,AMRAP,1,36,4
+Lower body,Posteriors,Lunges,AMRAP,1,80,4
+Lower body,Posteriors,Start Crunch,Tabata,2,60,3
+Lower body,Posteriors,Plank + tap shoulders,Tabata,2,60,3
+Lower body,Posteriors,Heel touches,Tabata,2,60,3
+Lower body,Posteriors,Plank open close,Tabata,2,60,3
